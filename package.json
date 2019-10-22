@@ -1,0 +1,19 @@
+{
+  "name": "parabank-smoke-tests",
+  "version": "1.0.0",
+  "description": "Parabank E2E automated smoke test suite",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pauliedoherty/parabank-smoke-tests.git"
+  },
+  "author": "Paul Doherty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pauliedoherty/parabank-smoke-tests/issues"
+  },
+  "homepage": "https://github.com/pauliedoherty/parabank-smoke-tests#readme"
+}

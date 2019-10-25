@@ -5,4 +5,4 @@ node_modules/
 .npm
 
 # Cypress output files
-Cypress/videos/*
+cypress/videos/*

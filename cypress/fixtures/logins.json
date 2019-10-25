@@ -2,5 +2,9 @@
   "validUser": {
     "username": "bwtest@beandev.com",
     "password": "Beanworks1!"
+  },
+  "myAccount": {
+    "username": "pauliedoherty",
+    "password": "Donegal1!"
   }
 }

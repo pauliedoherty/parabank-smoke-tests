@@ -6,3 +6,4 @@ node_modules/
 
 # Cypress output files
 cypress/videos/*
+cypress/screenshots/*

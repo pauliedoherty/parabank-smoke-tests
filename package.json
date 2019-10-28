@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/pauliedoherty/parabank-smoke-tests#readme",
   "devDependencies": {
-    "cypress": "^3.4.1"
+    "@types/jquery": "^3.3.31",
+    "cypress": "^3.4.1",
+    "jquery": "^3.4.1"
   }
 }

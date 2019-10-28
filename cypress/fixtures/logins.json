@@ -3,8 +3,16 @@
     "username": "bwtest@beandev.com",
     "password": "Beanworks1!"
   },
+  "invalidUser": {
+    "username": "bwtest@beandev.com",
+    "password": "InCoRreCtPaSsWoRd"
+  },
   "myAccount": {
-    "username": "pauliedoherty",
-    "password": "Donegal1!"
+    "username": "testpaul",
+    "password": "testpaul"
+  },
+  "blank": {
+    "username": "",
+    "password": ""
   }
 }
